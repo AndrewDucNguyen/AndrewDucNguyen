@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm Andrew 👨🏻‍💻
 
-<!--
-**AndrewDucNguyen/AndrewDucNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Software Engineer and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Tools I'm passionate about 🛠
+
+![](https://img.shields.io/badge/JavaScript-React-%2361DBFB)
+![](https://img.shields.io/badge/Javascript-Next-%23000)
+![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
+
+![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
+![](https://img.shields.io/badge/Bundler-Webpack-%2389CEF2)
+
+![](https://img.shields.io/badge/Javascript-Node-026e00)
+![](https://img.shields.io/badge/Javascript-Express-white)
