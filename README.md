@@ -1,12 +1,13 @@
-### Hello, I'm Andrew 👨🏻‍💻
+### Hi there, I'm Andrew 👋
 
 
-I'm a Software Engineer and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/)
+I'm a Software Engineer 👨🏻‍💻 and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/), but delving into the world of fullstack development.
 
 ##### Tools I'm passionate about 🛠
 
 ![](https://img.shields.io/badge/JavaScript-React-%2361DBFB)
 ![](https://img.shields.io/badge/Javascript-Next-%23000)
+![](https://img.shields.io/badge/CSS-SASS/SCSS-%2306B6D4)
 ![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
 
 ![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
@@ -14,3 +15,5 @@ I'm a Software Engineer and coffee enthusiast ☕️ currently building reactive
 
 ![](https://img.shields.io/badge/Javascript-Node-026e00)
 ![](https://img.shields.io/badge/Javascript-Express-white)
+
+##### Happy coding! 🚀
