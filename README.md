@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋
 
 
-I'm a Software Engineer 👨🏻‍💻 and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/), but delving into the world of fullstack development.
+I'm a Full-Stack Software Engineer 👨🏻‍💻 and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/).
 
 ##### Tools I'm passionate about 🛠
 
