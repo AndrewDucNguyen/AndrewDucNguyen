@@ -1,19 +1,26 @@
-### Hi there, I'm Andrew 👋
+# 👋 Hey there, I'm Andrew!  
 
+I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing web applications. Currently, I'm crafting reactive frontend experiences at [HealthTrio by mPulse](https://www.healthtrio.com/). Whether it's designing pixel-perfect UIs or optimizing performance, I enjoy bringing ideas to life through code.  
 
-I'm a Full-Stack Software Engineer 👨🏻‍💻 and coffee enthusiast ☕️ currently building reactive/frontend applications for [HealthTrio by mPulse](https://www.healthtrio.com/).
+## 💡 What gets me excited?  
+- Writing clean, maintainable, and scalable code  
+- Exploring new tech and frameworks  
+- Building projects that make a real impact  
 
-##### Tools I'm passionate about 🛠
+## 🔧 Tech I Love Working With  
 
-![](https://img.shields.io/badge/JavaScript-React-%2361DBFB)
-![](https://img.shields.io/badge/Javascript-Next-%23000)
-![](https://img.shields.io/badge/CSS-SASS/SCSS-%2306B6D4)
-![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
+### 🚀 Frontend & UI  
+- **JavaScript** (React, Next.js)  
+- **CSS** (SASS/SCSS, TailwindCSS)  
 
-![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
-![](https://img.shields.io/badge/Bundler-Webpack-%2389CEF2)
+### 🛠 Backend & Tooling  
+- **TypeScript**  
+- **Node.js** (Express)  
+- **Webpack**  
 
-![](https://img.shields.io/badge/Javascript-Node-026e00)
-![](https://img.shields.io/badge/Javascript-Express-white)
+## 🎯 A Bit More About Me  
+- 📚 Always learning and refining my craft  
+- 💻 Passionate about frontend, but I don't shy away from the backend  
+- 🤝 Love collaborating with devs and sharing knowledge  
 
-##### Happy coding! 🚀
+🚀 *Let's connect and build something awesome together!*  
