@@ -10,13 +10,16 @@ I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing
 ## 🔧 Tech I Love Working With  
 
 ### 🚀 Frontend & UI  
-- **JavaScript** (React, Next.js)  
-- **CSS** (SASS/SCSS, TailwindCSS)  
+![React](https://img.shields.io/badge/JavaScript-React-%2361DBFB)  
+![Next.js](https://img.shields.io/badge/Javascript-Next-%23000)  
+![SASS/SCSS](https://img.shields.io/badge/CSS-SASS/SCSS-%2306B6D4)  
+![TailwindCSS](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)  
 
 ### 🛠 Backend & Tooling  
-- **TypeScript**  
-- **Node.js** (Express)  
-- **Webpack**  
+![TypeScript](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)  
+![Webpack](https://img.shields.io/badge/Bundler-Webpack-%2389CEF2)  
+![Node.js](https://img.shields.io/badge/Javascript-Node-026e00)  
+![Express](https://img.shields.io/badge/Javascript-Express-white)  
 
 ## 🎯 A Bit More About Me  
 - 📚 Always learning and refining my craft  
