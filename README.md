@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Andrew!  
 
-I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing web applications. Currently, I'm crafting reactive frontend experiences at [mPulse](https://mpulse.com/). Whether it's designing pixel-perfect UIs or optimizing performance, I enjoy bringing ideas to life through code.  
+I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing web applications. Currently, I'm crafting reactive frontend applications at [mPulse](https://mpulse.com/). Whether it's designing pixel-perfect UIs or optimizing performance, I enjoy bringing ideas to life through code.  
 
 ## 💡 What gets me excited?  
 - Writing clean, maintainable, and scalable code  
