@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Andrew!  
 
-I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing web applications. Currently, I'm crafting reactive frontend applications at [mPulse](https://mpulse.com/). Whether it's designing pixel-perfect UIs or optimizing performance, I enjoy bringing ideas to life through code.  
+I'm a **Software Engineer** who loves building sleek, high-performing web applications. Currently, I'm crafting reactive frontend applications at [mPulse](https://mpulse.com/). Whether it's designing pixel-perfect UIs or optimizing performance, I enjoy bringing ideas to life through code.  
 
 ## 💡 What gets me excited?  
 - Writing clean, maintainable, and scalable code  
@@ -16,8 +16,6 @@ I'm a **Full-Stack Software Engineer** who loves building sleek, high-performing
 ![TailwindCSS](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)  
 
 ### 🛠 Backend & Tooling  
-![TypeScript](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)  
-![Webpack](https://img.shields.io/badge/Bundler-Webpack-%2389CEF2)  
 ![Node.js](https://img.shields.io/badge/Javascript-Node-026e00)  
 ![Express](https://img.shields.io/badge/Javascript-Express-white)  
 
